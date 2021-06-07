@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bethesda-Pex-Decompiler-Executor/1.0.0": {
+        "runtime": {
+          "Bethesda-Pex-Decompiler-Executor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bethesda-Pex-Decompiler-Executor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
